@@ -1,29 +1,17 @@
-# Hana Calculate for command-line ➗✖️
+# Python program
 
 ## About
 
 * * *
 
-An electronic calculator is typically a portable electronic device used to perform
-calculations, ranging from basic arithmetic to complex mathematics.
-
-The first solid-state electronic calculator was created in the early 1960s. Pocket-sized
-devices became available in the 1970s, especially after the Intel 4004, the first
-microprocessor, was developed by Intel for the Japanese calculator company Busicom. They
-later became used commonly within the petroleum industry (oil and gas).
-
-Modern electronic calculators vary from cheap, give-away, credit-card-sized models to sturdy
-desktop models with built-in printers. They became popular in the mid-1970s as the
-incorporation of integrated circuits reduced their size and cost. By the end of that decade,
-prices had dropped to the point where a basic calculator was affordable to most and they
-became common in schools.
+Add info about this app here.
 
 ## Tooling information
 
 * * *
 
-Targeted audience we are building for is MacOSX and Linux users. This project uses
-[Meson](https://mesonbuild.com/) `0.56.0` and newer.
+Targeted audience we are building for is Windwos 10, MacOSX and Linux users. This project uses
+[Python](https://www.python.org/) `3.9.x` and newer.
 
 ## Setup, Compile and Install
 
@@ -52,8 +40,8 @@ prog
 
 * * *
 
-You can contact me with either of these methods.
+You may find that I have a number of ways that you can contact
+me. All of these methods happen to be listed on my blogging platform
+[Mike's virtual office](https://michaelbrockus.home.blog/contact/).
 
--   linkedin: [michael-brockus](https://www.linkedin.com/in/michael-brockus-1009a1174/)
--   reddit: [MichaelBrockus](https://www.reddit.com/user/MichaelBrockus)
--   gmail: [michaelbrockus@gmail.com](mailto:michaelbrockus@gmail.com).
+Lastly don't forget to have a cup of virtual coffee. Thanks.
