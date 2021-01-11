@@ -6,6 +6,12 @@
 
 Add info about this app here.
 
+## Program Preview
+
+* * *
+
+Please add an image for the user to see.
+
 ## Tooling information
 
 * * *
