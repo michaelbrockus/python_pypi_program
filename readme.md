@@ -11,7 +11,7 @@ Add info about this app here.
 * * *
 
 Targeted audience we are building for is Windwos 10, MacOSX and Linux users. This project uses
-[Python](https://www.python.org/) `3.9.x` and newer.
+[Python](https://www.python.org/) `3.8.x` and newer.
 
 ## Setup, Compile and Install
 
