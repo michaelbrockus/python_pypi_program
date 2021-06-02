@@ -16,8 +16,8 @@ Please add an image for the user to see.
 
 * * *
 
-Targeted audience we are building for is Windwos 10, MacOSX and Linux users. This project uses
-[Python](https://www.python.org/) `3.8.x` and newer.
+Targeted audience we are building for is **Windwos 10**, **MacOSX**, **ChromeOS**, and
+**Linux** users. This project uses [Python](https://www.python.org/) `3.8.x` and newer.
 
 ## Test, Install and Run
 
